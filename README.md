@@ -11,6 +11,7 @@ Here lies all the upcoming projects made during this Masters where we will utili
  - Docker
  - Java
  - SQL
+ - Bash
 
 
 Contact me : rafa.psolans@gmail.com
