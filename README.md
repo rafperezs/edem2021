@@ -12,6 +12,7 @@ Here lies all the upcoming projects made during this Masters where we will utili
  - Java
  - SQL
  - Bash
+ - More
 
 
 Contact me : rafa.psolans@gmail.com
